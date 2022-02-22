@@ -44,4 +44,3 @@ require (
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
 
-replace gitlab.stageoffice.ru/UCS-COMMON/matiss/v2 => /Users/denischeremisov/go/src/gitlab.stageoffice.ru/UCS-COMMON/matiss

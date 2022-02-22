@@ -255,7 +255,7 @@ func (g *Generator) generate(
 				match.sec.Type(),
 				descr,
 				"field "+match.sec.Name(),
-				true,
+				false,
 			)
 
 		case oomatch != nil:
